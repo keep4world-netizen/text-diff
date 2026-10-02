@@ -1,0 +1,24 @@
+{
+  "name": "Text Diff",
+  "short_name": "Text Diff",
+  "description": "Compare two texts and see exactly what is different",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101011",
+  "theme_color": "#26282b",
+  "icons": [
+    {
+      "src": "diff-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "diff-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
